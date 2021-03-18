@@ -1,0 +1,11 @@
+eve: true
+nice: false
+dear: false
+level: true
+rotor: true
+radar: true
+much: false
+refer: true
+kayak: true
+main: false
+civic: true
